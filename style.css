@@ -1,0 +1,31 @@
+/*
+Theme Name: 	Verbund freier Netzwerke NRW e.V.
+Theme URI: 		http://freifunk-nrw.de
+Description: 	based on Starkers 4.0, Bootstrap 3.0.1 and JQuery 2.0.3
+Version: 		0.1
+Author: 		Tobias Opitz
+Author URI: 	http://opitzworks.de
+Tags: 			free, freifunk
+*/
+
+/* =========================== */
+
+/* === Import Bootstrap - Must be the first imported CSS File! === */
+@import "css/bootstrap.min.css";
+
+/* === Import Bootstrap Theme if necessary === */
+/* @import "css/bootstrap-theme.min.css"; */
+
+/* === Import own CSS Files === */
+@import "css/layout.css";
+@import "fonts/font-awesome/css/font-awesome.min.css";
+@import "css/ui.totop.css";
+
+
+/* === Basecolors ===
+
+   Gelb: 	#FFB400
+   Magenta:	#DC0067
+   Blau:	#009EE0
+
+   === ========== === */
